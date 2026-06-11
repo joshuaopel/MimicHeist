@@ -1,0 +1,9 @@
+{
+  "name": "Mimic Heist Campaign",
+  "levels": [
+    "the_pantry.json",
+    "the_treasury_depths.json",
+    "the_grand_vault.json"
+  ],
+  "unlockAll": false
+}
